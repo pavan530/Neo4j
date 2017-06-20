@@ -1,4 +1,4 @@
-package com.fractal.analytics.graphdb;
+package com.pavan.analytics.graphdb;
 import org.neo4j.driver.v1.*;
 import static org.neo4j.driver.v1.Values.parameters;
 
